@@ -1,0 +1,8 @@
+{
+  "name": "Lorde das Sombras: Card Platformer Souls",
+  "description": "Jogo 2D de plataforma e batalha tática de cartas estilo Dark Souls contra o lendário Lorde das Sombras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
